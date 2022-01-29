@@ -1,0 +1,10 @@
+Java es un lenguaje de programación de alto nivel
+
+simple
+orientado a objetos
+distribuido
+multihilo
+arquitectura neutral
+portable
+alto desempeño
+seguro

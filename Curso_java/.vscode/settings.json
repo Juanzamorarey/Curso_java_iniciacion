@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "amazon_viewer\\libs\\Report.jar",
+            "amazon_viewer\\lib\\Report.jar",
+            "Report.jar",
+            "amazon_viewer/Report.jar",
+            "libs/Report.jar"
+        ],
+        "exclude": [
+            "amazon_viewer/lib/Report.jar",
+            "lib/Report.jar"
+        ]
+    },
+    "java.project.sourcePaths": [
+        ".",
+        "amazon_viewer\\libs"
+    ],
+    "java.dependency.packagePresentation": "flat"
+}
